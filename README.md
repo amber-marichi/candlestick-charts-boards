@@ -36,6 +36,6 @@ streamlit run main.py
 ```
 
 ### Preview
-![Screenshot at 2023-06-06 18-47-26](https://github.com/amber-marichi/candlestick-charts-boards/assets/72259870/61a9219f-b71a-4abe-8f15-e187eb7e7737)
-![Screenshot at 2023-06-06 18-48-40](https://github.com/amber-marichi/candlestick-charts-boards/assets/72259870/8aace4b9-4829-4c87-ad0a-6e6587904c9c)
-![Screenshot at 2023-06-06 19-19-26](https://github.com/amber-marichi/candlestick-charts-boards/assets/72259870/16e2cecf-a291-47de-b0d8-fab7ee1fff79)
+![Screenshot at 2023-06-06 18-47-26](https://github.com/amber-marichi/candlestick-charts-boards/assets/72259870/8e41b07e-63e1-43a1-8f4f-5d56e16fe0fb)
+![Screenshot at 2023-06-06 18-48-40](https://github.com/amber-marichi/candlestick-charts-boards/assets/72259870/6eff4fa8-e0e6-4ed3-9a8e-1fd84e2e9ba8)
+![Screenshot at 2023-06-06 19-19-26](https://github.com/amber-marichi/candlestick-charts-boards/assets/72259870/d8cc6bdc-0dd8-43fc-a346-54d5d0816f38)
