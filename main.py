@@ -70,7 +70,8 @@ class MyCandlestickApp:
             x=sma_chart["DateTime"],
             y=sma_chart["SMA"],
             mode="lines+markers",
-            name="SMA Value")
+            name="SMA Value",
+            line=dict(color="#5c3566"))
         )
         self.chart.plotly_chart(fig, use_container_width=True)
 
@@ -100,12 +101,9 @@ class MyCandlestickApp:
             on_error=self._on_error,
             on_close=self._on_close
         )
-        
-        self._ws.keep_running = True
-        self._ws_thread = Thread(target=self._ws.run_forever)
-        self._ws_thread.daemon = True
-        self._ws_thread.start()
-    
+
+        self._ws.run_forever()
+
 
 app = MyCandlestickApp()
 
